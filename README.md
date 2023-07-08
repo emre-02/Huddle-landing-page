@@ -22,7 +22,7 @@ This is a solution to the [Huddle landing page challenge on Frontend Mentor](htt
 
 ### Links
 
-- [Solution URL]()
+- [Solution URL](https://github.com/emre-02/Huddle-landing-page/tree/main)
 - [Live Site URL]()
 
 ## My process
